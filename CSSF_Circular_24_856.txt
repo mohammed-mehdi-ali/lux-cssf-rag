@@ -1,0 +1,11 @@
+CSSF Circular 24/856: Investor protection in case of NAV calculation errors, non-compliance with investment rules and other errors at UCI level.
+
+Article 3 - Materiality thresholds: For UCITS investing in equities, the materiality threshold for a NAV calculation error is set at 0.50% of the Net Asset Value. For money market funds, the materiality threshold is defined as 0.25% of NAV. For bond and fixed income funds, the threshold is 0.50%. For alternative investment funds (AIFs), the threshold is generally between 0.50% and 1.00% depending on fund structure.
+
+Article 7 - Regulatory Notification: Any NAV error exceeding the materiality threshold must be notified to the CSSF without undue delay and at the latest within 4 to 8 weeks depending on root cause analysis. A detailed remediation plan and investor compensation statement must be submitted.
+
+CSSF Circular 22/806: On ICT and cloud outsourcing service arrangements.
+
+Section 4 - Critical Outsourcing: Financial institutions planning to outsource critical or important operational functions to cloud service providers must notify the CSSF at least 3 months prior to the planned implementation date.
+
+Section 6 - Data Localization and DORA Alignment: Entities must ensure data resilience, audit access rights, and business continuity in compliance with EU DORA standards.
